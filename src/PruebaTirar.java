@@ -6,6 +6,8 @@ public class PruebaTirar {
 		System.out.println("Hola alumnos");
 		
 		String nombre = "Sergio";
+		
+		System.out.println(nombre);
 	}
 
 }

@@ -8,6 +8,8 @@ public class PruebaTirar {
 		String nombre = "Sergio";
 		
 		System.out.println(nombre);
+		
+		System.out.println("Mi nombre es " + nombre);
 	}
 
 }
